@@ -1,0 +1,3301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="vježba 3.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.8293"
+     inkscape:cx="397.92596"
+     inkscape:cy="756.66225"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient29727">
+      <stop
+         style="stop-color:#ff1668;stop-opacity:1;"
+         offset="0.15748033"
+         id="stop29723" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop29725" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient24405"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop24403" />
+    </linearGradient>
+    <linearGradient
+       id="zvijezda"
+       inkscape:swatch="solid"
+       gradientTransform="translate(5.472973,65.310811)">
+      <stop
+         style="stop-color:#f5ff29;stop-opacity:1;"
+         offset="0"
+         id="stop14089" />
+    </linearGradient>
+    <linearGradient
+       id="oblaci"
+       inkscape:swatch="solid"
+       gradientTransform="scale(0.26458333)">
+      <stop
+         style="stop-color:#ff77a5;stop-opacity:1;"
+         offset="0"
+         id="stop11905" />
+    </linearGradient>
+    <linearGradient
+       id="pozadina"
+       inkscape:swatch="solid"
+       gradientTransform="scale(0.07000434)">
+      <stop
+         style="stop-color:#b27cc8;stop-opacity:1;"
+         offset="0"
+         id="stop9721" />
+    </linearGradient>
+    <linearGradient
+       id="planina1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#4b6bff;stop-opacity:0.8509804;"
+         offset="0"
+         id="stop4602" />
+    </linearGradient>
+    <linearGradient
+       id="zgrada"
+       inkscape:swatch="solid"
+       gradientTransform="matrix(0.07000434,0,0,0.07000434,-0.86883601,11.391385)">
+      <stop
+         style="stop-color:#006b4c;stop-opacity:1;"
+         offset="0"
+         id="stop3870" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#zgrada"
+       id="linearGradient3874"
+       x1="232.46726"
+       y1="214.90539"
+       x2="274.33003"
+       y2="214.90539"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#planina1"
+       id="linearGradient4606"
+       x1="232.46725"
+       y1="169.66216"
+       x2="274.33002"
+       y2="169.66216"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#pozadina"
+       id="linearGradient9725"
+       x1="232.83213"
+       y1="79.54053"
+       x2="274.69489"
+       y2="79.54053"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#oblaci"
+       id="linearGradient11909"
+       x1="232.83213"
+       y1="125.51351"
+       x2="274.69489"
+       y2="125.51351"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#zvijezda"
+       id="linearGradient14093"
+       x1="232.10239"
+       y1="35.756747"
+       x2="273.96516"
+       y2="35.756747"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#planina1"
+       id="linearGradient24780"
+       gradientTransform="matrix(0.84087497,0,0,1.1892375,-0.3648648,-0.7297297)"
+       x1="0.43391095"
+       y1="0.61360438"
+       x2="250.17378"
+       y2="0.61360438"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter27396"
+       x="-0.0075559367"
+       y="-0.017002257"
+       width="1.0151119"
+       height="1.0340045">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.66184957"
+         id="feGaussianBlur27398" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29727"
+       id="radialGradient29729"
+       cx="105"
+       cy="-169.47972"
+       fx="105"
+       fy="-169.47972"
+       r="105"
+       gradientTransform="matrix(1.0229448,0,0,0.71756752,8.8823798,-16.362595)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#zvijezda"
+       id="radialGradient31964"
+       cx="107.45271"
+       cy="178.23648"
+       fx="107.45271"
+       fy="178.23648"
+       r="7.1148648"
+       gradientTransform="matrix(1,0,0,0.89743584,0,18.280675)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter31966"
+       x="-0.51363182"
+       y="-0.57233263"
+       width="2.0272636"
+       height="2.1446653">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0453507"
+         id="feGaussianBlur31968" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="swatches"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:inline;opacity:1;fill:url(#linearGradient24780);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.990099"
+       id="rect21401"
+       width="210"
+       height="297"
+       x="1.110223e-16"
+       y="-8.3923342e-06"
+       inkscape:label="pozadina" />
+    <rect
+       style="fill:url(#linearGradient14093);fill-opacity:1;stroke:#000000;stroke-width:2.82223;stroke-opacity:0.29661"
+       id="rect1574"
+       width="39.040539"
+       height="31.378378"
+       x="233.5135"
+       y="20.067558" />
+    <rect
+       style="fill:url(#linearGradient11909);fill-opacity:1;stroke:#000000;stroke-width:2.82223;stroke-opacity:0.29661"
+       id="rect1576"
+       width="39.040539"
+       height="31.378378"
+       x="234.24324"
+       y="109.82432" />
+    <rect
+       style="fill:url(#linearGradient9725);fill-opacity:1;stroke:#a5a5a5;stroke-width:2.82223;stroke-opacity:0.29661"
+       id="rect1686"
+       width="39.040539"
+       height="31.378378"
+       x="234.24324"
+       y="63.851341" />
+    <rect
+       style="fill:url(#linearGradient4606);fill-opacity:1.0;stroke:#000000;stroke-width:2.82223;stroke-opacity:0.29661"
+       id="rect1688"
+       width="39.040539"
+       height="31.378378"
+       x="233.87837"
+       y="153.97296" />
+    <rect
+       style="fill:url(#linearGradient3874);fill-opacity:1;stroke:#000000;stroke-width:2.82223;stroke-opacity:0.29661"
+       id="rect1690"
+       width="39.040539"
+       height="31.378378"
+       x="233.87837"
+       y="199.2162" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layer2"
+     style="display:inline;fill:url(#zgrada)">
+    <g
+       id="g26295"
+       inkscape:label="oblaci"
+       style="fill:url(#pozadina)"
+       transform="matrix(0.8466934,0,0,1,12.505171,2.5523534)">
+      <path
+         style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.29661"
+         d="m 8.027027,52.905395 c 0,0 -4.743243,-6.932433 4.743243,-9.486485 9.486488,-2.554054 -7.662162,-5.472975 5.472973,-10.581081 13.135136,-5.10811 18.608108,2.918917 33.932431,-1.094595 15.324325,-4.013515 8.756758,-2.91892 11.675676,-5.108109 2.91892,-2.189189 10.581082,-2.189189 10.581082,-2.189189 0,0 9.121621,0 9.85135,5.472972 0.729731,5.472975 9.486491,11.310813 13.500001,11.675676 4.013507,0.364866 8.027027,-6.202701 12.405407,-3.283783 4.37837,2.91892 7.66216,9.851353 1.45945,11.675676 C 105.44594,51.8108 89.391891,52.540532 83.554053,51.8108 77.716215,51.081072 55.094594,52.540532 55.824323,55.824315 56.554054,59.108099 26.999999,59.837827 24.81081,55.459449 22.621621,51.081072 9.121621,58.743233 8.027027,52.905395 Z"
+         id="path18443"
+         inkscape:transform-center-x="1.8243244" />
+      <path
+         style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.29661"
+         d="m 213.49799,26.27026 c 0,0 4.74324,-6.932433 -4.74325,-9.486485 -9.48648,-2.554054 7.66216,-5.472975 -5.47297,-10.5810807 -13.13514,-5.10811 -18.60811,2.918917 -33.93243,-1.094595 C 154.02501,1.0945843 160.59258,2.1891793 157.67366,-9.6756757e-6 154.75474,-2.1891987 147.09258,-2.1891987 147.09258,-2.1891987 c 0,0 -9.12162,0 -9.85135,5.472972 -0.72973,5.472975 -9.48649,11.3108127 -13.5,11.6756757 -4.01351,0.364866 -8.02703,-6.2027007 -12.40541,-3.283783 -4.37837,2.91892 -7.66216,9.851353 -1.45945,11.675676 6.2027,1.824323 22.25675,2.554055 28.09459,1.824323 5.83784,-0.729728 28.45946,0.729732 27.72973,4.013515 -0.72973,3.283784 28.82432,4.013512 31.01351,-0.364866 2.18919,-4.378377 15.68919,3.283784 16.78379,-2.554054 z"
+         id="path24367"
+         inkscape:transform-center-x="-1.8243249" />
+      <path
+         style="opacity:0.840361;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.29661"
+         d="m 122.22973,45.243233 c 0,0 -4.74324,-6.932433 4.74324,-9.486485 9.48649,-2.554054 -7.66216,-5.472975 5.47298,-10.581081 13.13513,-5.10811 18.6081,2.918917 33.93243,-1.094595 15.32432,-4.013515 8.75675,-2.91892 11.67567,-5.108109 2.91892,-2.189189 10.58108,-2.189189 10.58108,-2.189189 0,0 9.12163,0 9.85135,5.472972 0.72974,5.472975 9.4865,11.310813 13.50001,11.675676 4.0135,0.364866 8.02702,-6.202701 12.4054,-3.283783 4.37837,2.91892 7.66216,9.851353 1.45945,11.675676 -6.2027,1.824323 -22.25675,2.554055 -28.09458,1.824323 -5.83784,-0.729728 -28.45946,0.729732 -27.72973,4.013515 0.72973,3.283784 -28.82433,4.013512 -31.01352,-0.364866 -2.18919,-4.378377 -15.68919,3.283784 -16.78378,-2.554054 z"
+         id="path24377"
+         inkscape:transform-center-x="1.8243244" />
+      <path
+         style="opacity:0.795181;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.29661"
+         d="m -21.527027,3.4222229 c 0,0 -4.743243,6.9324331 4.743243,9.4864851 9.4864879,2.554054 -7.662162,5.472975 5.472973,10.581081 13.1351359,5.10811 18.6081079,-2.918917 33.932431,1.094595 15.324325,4.013515 8.756758,2.91892 11.675676,5.108109 2.91892,2.189189 10.581082,2.189189 10.581082,2.189189 0,0 9.121621,0 9.85135,-5.472972 0.729731,-5.472975 9.486491,-11.310813 13.500001,-11.675676 4.013507,-0.364866 8.027027,6.202701 12.405407,3.283783 4.37837,-2.91892 7.66216,-9.8513531 1.45945,-11.6756761 C 75.891886,4.5168179 59.837837,3.7870859 53.999999,4.5168179 48.162161,5.2465459 25.54054,3.7870859 26.270269,0.50330286 27,-2.7804811 -2.5540551,-3.5102091 -4.7432441,0.86816886 -6.9324331,5.2465459 -20.432433,-2.4156151 -21.527027,3.4222229 Z"
+         id="path24409"
+         inkscape:transform-center-x="1.8243244" />
+      <path
+         style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.29661"
+         d="m 74.797297,70.418909 c 0,0 -4.743243,-6.932433 4.743243,-9.486485 9.486488,-2.554054 -7.662162,-5.472975 5.472973,-10.581081 13.135136,-5.10811 18.608107,2.918917 33.932427,-1.094595 15.32433,-4.013515 8.75676,-2.91892 11.67568,-5.108109 2.91892,-2.189189 10.58108,-2.189189 10.58108,-2.189189 0,0 9.12162,0 9.85135,5.472972 0.72973,5.472975 9.48649,11.310813 13.5,11.675676 4.01351,0.364866 8.02703,-6.202701 12.40541,-3.283783 4.37837,2.91892 7.66216,9.851353 1.45945,11.675676 -6.2027,1.824323 -22.25675,2.554055 -28.09459,1.824323 -5.83783,-0.729728 -28.45946,0.729732 -27.72973,4.013515 0.72973,3.283784 -28.824321,4.013512 -31.01351,-0.364866 -2.189189,-4.378377 -15.689189,3.283784 -16.783783,-2.554054 z"
+         id="path24411"
+         inkscape:transform-center-x="1.8243244" />
+      <path
+         style="opacity:0.665663;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.29661"
+         d="m -33.196413,89.111934 c 0,0 -5.696087,-6.173457 3.321215,-10.072799 9.017303,-3.899343 -8.373211,-4.307148 3.884946,-11.261434 12.258158,-6.954291 18.8346234,0.196701 33.4172689,-5.991152 14.5826551,-6.187856 8.2424751,-4.154823 10.8140501,-6.74319 2.571575,-2.588367 10.15316,-3.69664 10.15316,-3.69664 0,0 9.025696,-1.319373 10.539376,3.990495 1.513681,5.309872 11.022753,9.81972 15.046832,9.600223 4.024078,-0.219494 7.045444,-7.298522 11.79998,-5.043598 4.754527,2.254926 9.006508,8.639482 3.132901,11.341795 -5.873598,2.702312 -21.653274,5.746467 -27.535273,5.868807 -5.88199,0.122346 -28.054631,4.838503 -26.8576,7.982203 1.19703,3.143702 -27.940681,8.140525 -30.740147,4.124839 -2.799467,-4.015684 -15.049227,5.518573 -16.976709,-0.09955 z"
+         id="path24413"
+         inkscape:transform-center-x="-0.86099592"
+         inkscape:transform-center-y="0.032942048" />
+      <path
+         style="opacity:0.864458;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778;stroke-dasharray:none;stroke-opacity:0.29661"
+         d="m 145.94595,81.364855 c 0,0 -4.74325,-6.932433 4.74324,-9.486485 9.48649,-2.554054 -7.66216,-5.472975 5.47297,-10.581081 13.13514,-5.10811 18.60811,2.918917 33.93243,-1.094595 15.32433,-4.013515 8.75676,-2.91892 11.67568,-5.108109 2.91892,-2.189189 10.58108,-2.189189 10.58108,-2.189189 0,0 9.12162,0 9.85135,5.472972 0.72973,5.472975 9.48649,11.310813 13.5,11.675676 4.01351,0.364866 8.02703,-6.202701 12.40541,-3.283783 4.37837,2.91892 7.66216,9.851353 1.45945,11.675676 -6.2027,1.824323 -22.25675,2.554055 -28.09459,1.824323 -5.83783,-0.729728 -28.45946,0.729732 -27.72973,4.013515 0.72973,3.283784 -28.82432,4.013512 -31.01351,-0.364866 -2.18919,-4.378377 -15.68919,3.283784 -16.78378,-2.554054 z"
+         id="path24415"
+         inkscape:transform-center-x="1.8243244" />
+    </g>
+    <g
+       id="g28502"
+       inkscape:label="planine"
+       style="fill:url(#zgrada);fill-opacity:1;stroke-width:1.00013;stroke-dasharray:none"
+       transform="matrix(1.0049946,0,0,0.9663811,-0.08606266,4.4741574)">
+      <path
+         style="opacity:0.855422;fill:url(#zgrada);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00013;stroke-dasharray:none;stroke-opacity:0.990099;filter:url(#filter27396)"
+         d="M 0.36486486,195.93242 C 54.729729,189.72972 33.567568,184.98648 63.121621,174.04053 c 29.554053,-10.94595 25.905404,7.2973 55.094599,8.39189 29.18918,1.0946 39.04054,-25.9054 66.77026,-26.63513 27.72973,-0.72973 25.17568,18.97297 25.17568,18.97297 v 74.43243 L 0,247.74323 Z"
+         id="path27386" />
+      <path
+         style="opacity:0.948795;fill:url(#zgrada);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00013;stroke-dasharray:none;stroke-opacity:0.990099"
+         d="m 210.22396,216.72972 c -54.36487,-6.2027 -33.20271,-10.94594 -62.75676,-21.89189 -29.55405,-10.94595 -25.9054,7.2973 -55.094593,8.39189 -29.18918,1.0946 -39.04054,-25.9054 -66.77026,-26.63513 -27.7297306,-0.72973 -25.1756806,18.97297 -25.1756806,18.97297 v 74.43243 L 210.58882,268.54053 Z"
+         id="path27388" />
+      <path
+         style="opacity:1;fill:url(#zgrada);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00013;stroke-dasharray:none;stroke-opacity:0.990099"
+         d="M -0.36486972,251.39188 C 54,245.18918 32.83784,240.44594 62.39189,229.49999 c 29.55405,-10.94595 25.9054,7.2973 55.0946,8.39189 29.18918,1.0946 39.04054,-25.9054 66.77026,-26.63513 27.72973,-0.72973 25.17568,18.97297 25.17568,18.97297 v 74.43243 L -0.72972972,303.20269 Z"
+         id="path27390"
+         inkscape:label="path27390" />
+    </g>
+    <g
+       id="g32335"
+       inkscape:label="zalaz"
+       transform="matrix(0.96238723,0,0,1,1.7978679,-3.0529796)">
+      <rect
+         style="display:inline;opacity:0.460843;fill:url(#radialGradient29729);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.990099"
+         id="rect28919"
+         width="214.81842"
+         height="150.68918"
+         x="8.8823795"
+         y="-213.32033"
+         transform="matrix(0.96740919,0.25321825,0.04379095,-0.99904071,0,0)"
+         inkscape:transform-center-y="9.8513514"
+         inkscape:label="zalaz" />
+      <ellipse
+         style="opacity:1;mix-blend-mode:normal;fill:url(#radialGradient31964);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099;filter:url(#filter31966)"
+         id="path31962"
+         cx="107.45271"
+         cy="178.23648"
+         rx="7.1148648"
+         ry="6.3851347"
+         transform="matrix(1,0,0,0.97335581,1.0945946,4.7489661)" />
+    </g>
+    <g
+       id="g35085"
+       transform="matrix(0.9910623,0,0,0.70196123,-0.01785471,70.464323)">
+      <g
+         id="g33863"
+         inkscape:label="zgrade"
+         transform="translate(-5.1047068,-6.0618393)">
+        <g
+           id="g33707"
+           transform="matrix(-0.95273418,0,0,0.8080547,41.692753,42.540568)"
+           style="display:inline;fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33687"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33693"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33689"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33691"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33699"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33695"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33697"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33705"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33701"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33703"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33531"
+           transform="matrix(-0.71640515,0,0,0.75473658,51.264071,52.753874)"
+           style="display:inline;fill:url(#zgrada)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33511"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33517">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33513"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33515"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33523"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33519"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33521"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33529"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33525"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33527"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33641"
+           transform="matrix(0.95273418,0,0,0.8080547,-10.812164,49.878586)"
+           style="display:inline;fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33621"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33627"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33623"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33625"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33633"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33629"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33631"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33639"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33635"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33637"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33487"
+           transform="translate(-1.2761767,4.7856627)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33426"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33463">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33457"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33459"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33469"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33465"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33467"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33475"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33471"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33473"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33509"
+           transform="matrix(-1,0,0,1,45.183132,13.931915)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33489"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33495">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33491"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33493"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33501"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33497"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33499"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33507"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33503"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33505"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33553"
+           transform="matrix(-1.4490252,0,0,1.2345998,226.41933,-53.841899)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33533"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33539">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33535"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33537"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33545"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33541"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33543"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33551"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33547"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33549"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33575"
+           transform="matrix(-1.4490252,0,0,1.2345998,209.82903,-40.122999)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33555"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33561"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33557"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33559"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33567"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33563"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33565"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33573"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33569"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33571"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33597"
+           transform="matrix(-1.73262,0,0,1.3305724,104.86349,-68.078273)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33577"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33583"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33579"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33581"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33589"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33585"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33587"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33595"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33591"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33593"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33619"
+           transform="matrix(1.73262,0,0,1.3305724,132.43867,-62.016434)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33599"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33605"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33601"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33603"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33611"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33607"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33609"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33617"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33613"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33615"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33663"
+           transform="matrix(0.95273419,0,0,0.8080547,32.2588,50.516673)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33643"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33649"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33645"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33647"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33655"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33651"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33653"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33661"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33657"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33659"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33685"
+           transform="matrix(0.95273419,0,0,0.8080547,167.85257,44.13579)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33665"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33671"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33667"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33669"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33677"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33673"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33675"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33683"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33679"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33681"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g34107"
+         inkscape:label="zgrade"
+         transform="matrix(-0.5465343,0,0,1,111.46601,7.0189714)">
+        <g
+           id="g33885"
+           transform="matrix(-0.95273418,0,0,0.8080547,41.692753,42.540568)"
+           style="display:inline;fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33865"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33871"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33867"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33869"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33877"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33873"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33875"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33883"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33879"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33881"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33907"
+           transform="matrix(-0.71640515,0,0,0.75473658,51.264071,52.753874)"
+           style="display:inline;fill:url(#zgrada)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33887"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33893">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33889"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33891"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33899"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33895"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33897"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33905"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33901"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33903"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33929"
+           transform="matrix(0.95273418,0,0,0.8080547,-10.812164,49.878586)"
+           style="display:inline;fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33909"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33915"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33911"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33913"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33921"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33917"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33919"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33927"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33923"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33925"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33951"
+           transform="translate(-1.2761767,4.7856627)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33931"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33937">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33933"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33935"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33943"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33939"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33941"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33949"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33945"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33947"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33973"
+           transform="matrix(-1,0,0,1,45.183132,13.931915)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33953"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33959">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33955"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33957"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33965"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33961"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33963"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33971"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33967"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33969"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g33995"
+           transform="matrix(-1.4490252,0,0,1.2345998,226.41933,-53.841899)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33975"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g33981">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33977"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33979"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33987"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33983"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33985"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g33993"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33989"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33991"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34017"
+           transform="matrix(-1.4490252,0,0,1.2345998,209.82903,-40.122999)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect33997"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34003"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect33999"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34001"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34009"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34005"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34007"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34015"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34011"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34013"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34039"
+           transform="matrix(-1.73262,0,0,1.3305724,104.86349,-68.078273)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34019"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34025"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34021"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34023"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34031"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34027"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34029"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34037"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34033"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34035"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34061"
+           transform="matrix(1.73262,0,0,1.3305724,132.43867,-62.016434)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34041"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34047"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34043"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34045"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34053"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34049"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34051"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34059"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34055"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34057"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34083"
+           transform="matrix(0.95273419,0,0,0.8080547,32.2588,50.516673)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34063"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34069"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34065"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34067"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34075"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34071"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34073"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34081"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34077"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34079"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34105"
+           transform="matrix(0.95273419,0,0,0.8080547,167.85257,44.13579)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34085"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34091"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34087"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34089"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34097"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34093"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34095"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34103"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34099"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34101"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g34351"
+         inkscape:label="zgrade"
+         transform="matrix(0.5465343,0,0,1,40.332303,10.847502)">
+        <g
+           id="g34129"
+           transform="matrix(-0.95273418,0,0,0.8080547,41.692753,42.540568)"
+           style="display:inline;fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34109"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34115"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34111"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34113"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34121"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34117"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34119"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34127"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34123"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34125"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34151"
+           transform="matrix(-0.71640515,0,0,0.75473658,51.264071,52.753874)"
+           style="display:inline;fill:url(#zgrada)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34131"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34137">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34133"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34135"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34143"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34139"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34141"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34149"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34145"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34147"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34173"
+           transform="matrix(0.95273418,0,0,0.8080547,-10.812164,49.878586)"
+           style="display:inline;fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34153"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34159"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34155"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34157"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34165"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34161"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34163"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34171"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34167"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34169"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34195"
+           transform="translate(-1.2761767,4.7856627)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34175"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34181">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34177"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34179"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34187"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34183"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34185"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34193"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34189"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34191"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34217"
+           transform="matrix(-1,0,0,1,45.183132,13.931915)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34197"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34203">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34199"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34201"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34209"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34205"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34207"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34215"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34211"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34213"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34239"
+           transform="matrix(-1.4490252,0,0,1.2345998,226.41933,-53.841899)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34219"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34225">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34221"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34223"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34231"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34227"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34229"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34237"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34233"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34235"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34261"
+           transform="matrix(-1.4490252,0,0,1.2345998,209.82903,-40.122999)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34241"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34247"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34243"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34245"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34253"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34249"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34251"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34259"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34255"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34257"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34283"
+           transform="matrix(-1.73262,0,0,1.3305724,104.86349,-68.078273)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34263"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34269"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34265"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34267"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34275"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34271"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34273"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34281"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34277"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34279"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34305"
+           transform="matrix(1.73262,0,0,1.3305724,132.43867,-62.016434)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34285"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34291"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34287"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34289"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34297"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34293"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34295"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34303"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34299"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34301"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34327"
+           transform="matrix(0.95273419,0,0,0.8080547,32.2588,50.516673)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34307"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34313"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34309"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34311"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34319"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34315"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34317"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34325"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34321"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34323"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34349"
+           transform="matrix(0.95273419,0,0,0.8080547,167.85257,44.13579)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34329"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34335"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34331"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34333"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34341"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34337"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34339"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34347"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34343"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34345"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g34595"
+         inkscape:label="zgrade"
+         transform="matrix(0.5794851,0,0,1.1325552,92.553177,-33.419303)">
+        <g
+           id="g34373"
+           transform="matrix(-0.95273418,0,0,0.8080547,41.692753,42.540568)"
+           style="display:inline;fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34353"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34359"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34355"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34357"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34365"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34361"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34363"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34371"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34367"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34369"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34395"
+           transform="matrix(-0.71640515,0,0,0.75473658,51.264071,52.753874)"
+           style="display:inline;fill:url(#zgrada)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34375"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34381">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34377"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34379"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34387"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34383"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34385"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34393"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34389"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34391"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34417"
+           transform="matrix(0.95273418,0,0,0.8080547,-10.812164,49.878586)"
+           style="display:inline;fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34397"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34403"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34399"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34401"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34409"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34405"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34407"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34415"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34411"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34413"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34439"
+           transform="translate(-1.2761767,4.7856627)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34419"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34425">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34421"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34423"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34431"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34427"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34429"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34437"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34433"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34435"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34461"
+           transform="matrix(-1,0,0,1,45.183132,13.931915)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34441"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34447">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34443"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34445"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34453"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34449"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34451"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34459"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34455"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34457"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34483"
+           transform="matrix(-1.4490252,0,0,1.2345998,226.41933,-53.841899)">
+          <rect
+             style="opacity:1;fill:url(#oblaci);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34463"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34469">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34465"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34467"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34475"
+             transform="translate(0,6.8369581)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34471"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34473"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34481"
+             transform="translate(0,14.060914)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34477"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34479"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34505"
+           transform="matrix(-1.4490252,0,0,1.2345998,209.82903,-40.122999)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34485"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34491"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34487"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34489"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34497"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34493"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34495"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34503"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34499"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34501"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34527"
+           transform="matrix(-1.73262,0,0,1.3305724,104.86349,-68.078273)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34507"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34513"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34509"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34511"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34519"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34515"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34517"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34525"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34521"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34523"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34549"
+           transform="matrix(1.73262,0,0,1.3305724,132.43867,-62.016434)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#pozadina);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34529"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34535"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34531"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34533"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34541"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34537"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34539"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34547"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34543"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34545"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34571"
+           transform="matrix(0.95273419,0,0,0.8080547,32.2588,50.516673)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34551"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34557"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34553"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34555"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34563"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34559"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34561"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34569"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34565"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34567"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+        <g
+           id="g34593"
+           transform="matrix(0.95273419,0,0,0.8080547,167.85257,44.13579)"
+           style="fill:url(#oblaci)">
+          <rect
+             style="opacity:1;fill:url(#planina1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+             id="rect34573"
+             width="13.499999"
+             height="29.918919"
+             x="26.999998"
+             y="251.39189" />
+          <g
+             id="g34579"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34575"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34577"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34585"
+             transform="translate(0,6.8369581)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34581"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34583"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+          <g
+             id="g34591"
+             transform="translate(0,14.060914)"
+             style="fill:url(#zvijezda)">
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34587"
+               width="2.3219857"
+               height="4.1279745"
+               x="28.637825"
+               y="254.04324" />
+            <rect
+               style="opacity:1;fill:url(#zvijezda);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012;stroke-dasharray:none;stroke-opacity:0.990099"
+               id="rect34589"
+               width="2.3219857"
+               height="4.1279745"
+               x="33.281796"
+               y="254.17224" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

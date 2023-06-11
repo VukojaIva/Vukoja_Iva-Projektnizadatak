@@ -1,0 +1,41 @@
+/* CSS Document */
+
+body {
+ background-image: url("slike/54.jpg");
+ background-color: #cccccc;
+}
+
+.poz
+{color:black; background-color: rgba(195, 155,211, 0.5);} 
+
+ul.nav {
+  padding-left: 0px;
+  background-color: #97edf0;
+  text-align: center;
+}
+ul.nav > li {
+  display: inline-block;
+  padding: 20px 30px;
+}
+ul.nav > li:hover {
+  background-color: #D6DBDF;
+}
+ul.nav > li > a {
+  color: black;
+  text-decoration: none;
+}
+a:link {
+		color: black;
+		background-color: white;
+		padding: 5px;
+		line-height: 20px;
+		border: 1px solid #D6DBDF ;
+		
+	}
+	a:hover{
+		background-color: darkgray;
+		
+	}
+	img {
+		
+		height: 200px;
